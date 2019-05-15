@@ -1,0 +1,31 @@
+h1 {
+    text-align: center;
+    color: black;
+}
+
+.agenciesCardHeader{
+    background-color: lightseagreen;
+}
+
+.agenciesCard{
+    margin:50px;
+}
+
+.agenciesCardBody{
+    /* margin:100px;
+    background-color: lightseagreen; */
+}
+/* .one_card{
+    background-color: lightcoral;
+} */
+/* body{
+    background-color: lightcoral;
+} */
+.agenciesButton{
+   background-color: #9068be;
+   color: white;
+}
+.agencyDetails{
+    text-align: center;
+}
+

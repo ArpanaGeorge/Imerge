@@ -1,0 +1,41 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: whitesmoke;
+}
+
+.motto{
+  font-family: 'Great Vibes', cursive;
+}
+
+.slide {
+  width: 100%;
+  height: 100%;
+}
+
+.flex-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column; 
+  color: #78244C;
+}
+
+.homeServicesHeader{
+   background-color: #CAEBF2;
+}
+
+.homeServicesPara{
+  font-family: 'Charm', cursive;
+  font-size: 25px;
+}
+
+.homeServicesSection{
+  background-color: #CAEBF2;
+}
+
+.thumbnailCaption{
+  text-align: left;
+}

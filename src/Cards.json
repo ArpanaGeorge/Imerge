@@ -1,0 +1,83 @@
+
+[
+    {
+        "id": 1,
+        "name": "US Citizenship and Immigration Services",
+        "address": "2506, 12500 Tukwila International Blvd, Seattle, WA 98168",
+        "phone": "(800) 375-52830",
+        "url": "https://egov.uscis.gov/office-locator/#/",
+        "image": "https://www.uscis.gov/sites/default/files/ocomm/en/images/hp/socialmed_icons/facebook_image.jpg"
+    },
+    {
+        "id": 2,
+        "name": "International Rescue Committee",
+        "address": "1200 S 192nd St, SeaTac, WA 98148",
+        "phone": "(206) 623-2105",
+        "url": "https://www.rescue.org/",
+        "image": "https://help.rescue.org/files/irc/irc-logo.png"
+    },
+    {
+        "id": 3,
+        "name": "Center for MultiCulture Health",
+        "address": "1120 East Terrace St., Suite 200, Seattle, WA 98122",
+        "phone": "206-461-6910",
+        "url": "http://cschc.org/",
+        "image": "http://cschc.org/images/home/logo_lg.gif"
+    },
+    {
+        "id": 4,
+        "name": "Immigration Resources Portal",
+        "address": "Office of the Lt. Governor, 220 Legislative Building, 416 Sid Snyder Ave. S.W. Olympia, Washington",
+        "phone": "Phone: (360) 786-7700",
+        "url": "http://www.ltgov.wa.gov/immigration-resources-portal/",
+        "image": "http://vannw.org/wp-content/uploads/2017/01/washington-state-symbol.png"
+    },
+    {
+        "id": 5,
+        "name": "International Families Justice Coalition",
+        "address": "1001 Fourth Avenue, Suite 4400, Seattle, WA 98154",
+        "phone": "206-849-6885",
+        "url": "https://www.ifjc-us.org/news-and-events/",
+        "image": "https://www.ifjc-us.org/wp-content/uploads/2018/08/ifjc-log.png"
+    },
+    {
+        "id": 6,
+        "name": "Leadership without Borders",
+        "address": "3931 Brooklyn Avenue NE, Box 355650, Seattle, Washington 98105",
+        "phone": "Phone:(206)-685-6301",
+        "url": "http://depts.washington.edu/ecc/lwb/for-parents-families/immigrantion-rights-information/",
+        "image": "https://www.logolynx.com/images/logolynx/75/752320f624c1ad692848ae92c48de838.gif"
+    },
+    {
+        "id": 7,
+        "name": "One America",
+        "address": "1225 S. Weller Street, Suite 430, Seattle, WA 98144",
+        "phone": "206-723-2203",
+        "url": "https://weareoneamerica.org/",
+        "image": "http://oneamerica2.wpengine.com//wp-content/uploads/2017/07/navbar-logo.svg"
+    },
+    {
+        "id": 8,
+        "name": "Migration Policy Institute",
+        "address": "1400 16th Street NW, Suite 300, Washington, DC  20036",
+        "phone": "202-266-1940",
+        "url": "https://www.migrationpolicy.org/",
+        "image": "https://www.migrationpolicy.org/sites/all/themes/MPI/logo.png"
+    },
+    {
+        "id": 9,
+        "name": "Northwest Immigrant Rights Project",
+        "address": "615 2nd Avenue, Suite 400, Seattle, WA 98104",
+        "phone": "206-587-4009",
+        "url": "https://www.nwirp.org/get-help/",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSayd2AToYW0mYJvnKaOYH1XE-XKRPM7r-3ynBcwolQAKSur2gA"
+    },
+    {
+        "id": 10,
+        "name": "Neighborhood House",
+        "address": "1225 South Weller Street, Suite 510, Seattle, WA 98144",
+        "phone": "206-461-8430",
+        "url": "https://nhwa.org/contactus/index.php",
+        "image": "https://nhwa.org/images/logo_neighborhoodhouse.gif"
+    }
+]

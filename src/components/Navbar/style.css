@@ -1,0 +1,82 @@
+.imerge{
+    font-family: 'Bungee Inline', cursive;
+    color:#374785;
+}
+nav {
+    background-color:#3B8BEB;
+}
+
+nav ul li {
+     display: inline-block;  
+     height: 40px; 
+}
+
+#home
+{background-color: lightcoral;
+height: 100%;
+}
+#Agencies
+{background-color: lightseagreen;
+height: 100%;
+}
+#maps
+{background-color: #9068be;
+height: 100%;
+}
+#news
+{background-color: mediumvioletred;
+height: 100%;
+}
+
+#translator
+{
+background-color: #F7B733;
+/* background-color: #FC4A1A ; */
+height: 100%;
+}
+
+button {
+     border: 0;
+    line-height: 2.3;
+    padding: 0 10px;
+    font-size: 1rem;
+    text-align: center; 
+    color: #fff;
+    /* margin-left: 1%;
+    margin-right: 1%; */
+    margin-top: 0.5%;
+    text-shadow: 1px 1px 1px #000;
+    border-radius: 10px;
+    background-color:rgb(5, 184, 238);
+    background-image: linear-gradient(to top left,
+                                      rgba(0, 0, 0, .2),
+                                      rgba(0, 0, 0, .2) 30%,
+                                      rgba(0, 0, 0, 0));
+    box-shadow: inset 2px 2px 3px rgba(255, 255, 255, .6),
+                inset -2px -2px 3px rgba(0, 0, 0, .6);
+
+}
+
+li{
+    height: 40px;
+}
+
+nav li a {
+    color: white;
+}
+.navList:hover{
+     background-color: lightseagreen;
+}
+
+.icon{
+    width:4%;
+    
+}
+h1{
+    color: beige;
+    
+}
+.navList{
+    text-align: center;
+  color: #fff;
+}

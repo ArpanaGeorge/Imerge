@@ -1,0 +1,57 @@
+.category:hover{
+    background-color:  #9068be;
+}
+
+.sidePanelCardGHeader{
+    background-color:  #9068be; 
+}
+
+.GoBack{
+    text-align: right;
+}
+
+.back{
+    color: white;
+}
+
+.categoryOptionsCol {
+    padding: 4px; 
+}
+
+.card-img-top {
+    width: 70%;
+    margin: 10%;
+  }
+
+.cardbox {
+    height: 1000px;
+}
+.sidePanelMapRow{
+    height: 1000px;
+}
+
+.categoryOptionsButton{
+    width: 100%;
+    padding: 4px;   
+}
+
+.category{
+    border: solid thin lightcoral;
+    text-align: center;
+    width: 100%;
+    height: 100%; 
+    /* animation-duration: 3s; */
+    /* animation-iteration-count: infinite; */
+}
+
+.cardLayout{
+        width: 100%;
+        height: 100%;
+}
+
+map{
+    width: 100%;
+    height: 100%;
+}
+
+
